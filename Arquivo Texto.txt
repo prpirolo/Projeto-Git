@@ -1,1 +1,2 @@
 Arquivo de texto para teste de versionamento do Github
+Versão 2 - Acrescentada essa linha
